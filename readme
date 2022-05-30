@@ -1,0 +1,8 @@
+PREMIER PROJET DE COURS :
+
+Pour lancer l'application, il faut lancer le serveur, merci de suivre les commandes indiquées :
+
+$ npm install
+$ nodemon
+
+Bonne visualisation ! :)
