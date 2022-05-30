@@ -1,0 +1,25 @@
+.card-css {
+    margin: 1rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+}
+
+.card-css {
+    height: 15rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: none;
+}
